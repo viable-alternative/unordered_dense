@@ -12,3 +12,11 @@ compile_commands.json
 *.pcm
 a.out
 *.o
+
+# visual studio
+**/.vs/**
+**/x64/Release/**
+**/x64/Debug/**
+
+#Notepad++ backups
+**/nppBackup/**
